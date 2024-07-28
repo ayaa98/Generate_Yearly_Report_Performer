@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+779488,"Concierge Services",2017-05-14,146099,29219.8,175319,USD
+469610,"Waste management services",2017-05-02,31261,6252.2,37513.2,CAD

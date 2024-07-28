@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+640610,"Beverages and Catering",118792,23758.4,142550,EUR,2017-08-03
+364161,"Concierge Services",72800,14560,87360,USD,2017-08-20

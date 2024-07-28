@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+587636,"Professional Services",53701,10740.2,64441.2,USD,2017-07-27
+313252,"Beverages and Catering",258356,51671.2,310027,USD,2017-07-27
+557781,"Various paper supplies",173303,34660.6,207964,RON,2017-07-08
+182628,"Various paper supplies",14444,2888.8,17332.8,EUR,2017-07-07
